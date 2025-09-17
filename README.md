@@ -19,14 +19,6 @@ Welcome to my GitHub profile! I'm passionate about building scalable solutions, 
 | [Content-detox](https://github.com/Harimathesh/Content-detox) | Tools for digital wellness and content moderation |
 | [flask-aes-encryption](https://github.com/Harimathesh/flask-aes-encryption) | Secure data encryption in Flask using AES |
 
-## 📊 GitHub Stats
-
-![Harimathesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harimathesh&show_icons=true&theme=radical)
-
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/harimathesh/)
-- [Email](mailto:harimathesh@gmail.com)
 
 ---
 
