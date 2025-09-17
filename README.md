@@ -10,14 +10,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable solutions, 
 - 💬 Ask me about **Docker, Flask, AES encryption, and personal websites**
 - 📫 How to reach me: [harimathesh@gmail.com](mailto:harimathesh@gmail.com)
 
-## 🛠️ My Top Projects
 
-| Project | Description |
-| ------- | ----------- |
-| [docker-hbase](https://github.com/Harimathesh/docker-hbase) | HBase setup on Docker for scalable Big Data applications |
-| [portfolio-website](https://github.com/Harimathesh/portfolio-website) | My personal website showcasing my skills and projects |
-| [Content-detox](https://github.com/Harimathesh/Content-detox) | Tools for digital wellness and content moderation |
-| [flask-aes-encryption](https://github.com/Harimathesh/flask-aes-encryption) | Secure data encryption in Flask using AES |
 
 
 ---
